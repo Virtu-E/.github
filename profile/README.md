@@ -21,6 +21,8 @@ Our AI-guided platform represents the first strategic step in our comprehensive 
 
 This platform is designed specifically to work within Malawi's constraints: limited internet access, device scarcity in villages, and restricted connectivity in boarding schools. By providing offline capabilities and curriculum-aligned content, we're meeting students where they are while preparing for where they need to go.
 
+![Virtu-Educate Homepage](https://raw.githubusercontent.com/Virtu-E/.github/main/content/Virtu-Educate-HomePage-04-24-2025_10_31_AM.png)
+
 ### Step 2: 🔒 Coming Soon! 
 Stay tuned! The next phase of our transformation strategy is under development and will be revealed soon.
 
